@@ -1,2 +1,2 @@
 # learning-ai
-Repo where I will upload my AI learning journey, codes, and files.
+This is a repo where I will upload my AI and Quantum Computing learning journey, codes, and files.
